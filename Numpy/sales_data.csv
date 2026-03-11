@@ -1,0 +1,5 @@
+# sales_data.csv
+Date,Product,Region,Sales
+2026-01-01,Laptop,East,5000
+2026-01-02,Phone,West,3000
+2026-01-03,Tablet,East,2000
