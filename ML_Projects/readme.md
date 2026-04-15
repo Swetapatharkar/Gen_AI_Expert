@@ -15,6 +15,12 @@ The goal of this repository is to:
 - Regression model
 - Tech: Pandas, Sklearn, Matplotlib
 
+## 2. Titanic Survival Data Preprocessing
+- Cleaned Titanic dataset for ML-ready training
+- Missing value imputation + categorical encoding
+- Survival-based EDA using visualizations
+- Tech: Pandas, NumPy, Matplotlib
+
 
 # 👩‍💻 Author
 Shweta Patharkar
