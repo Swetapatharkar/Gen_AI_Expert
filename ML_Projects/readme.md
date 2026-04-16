@@ -21,6 +21,12 @@ The goal of this repository is to:
 - Survival-based EDA using visualizations
 - Tech: Pandas, NumPy, Matplotlib
 
+## 3. Social Media Engagement Prediction
+- Predictive modeling for platform-wide engagement rates using Random Forest Regressor
+- Data preprocessing featuring One-Hot Encoding and Standard Scaling for optimized model performance
+- Driver Analysis through Feature Importance visualization to identify key engagement catalysts
+- Performance evaluation using R-squared and MSE metrics with actual vs. predicted visualization
+- Tech: Pandas, Scikit-learn, Matplotlib, Joblib
 
 # 👩‍💻 Author
 Shweta Patharkar
