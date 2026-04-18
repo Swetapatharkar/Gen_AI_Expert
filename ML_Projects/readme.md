@@ -36,6 +36,17 @@ Tech: Pandas, Scikit-learn, Matplotlib, Joblib
 -- Evaluated model using R-squared metric  
 Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib
 
+## 5. Oil Price Prediction Web App
+-- Designed a predictive model for oil prices considering geopolitical and economic factors (conflict, supply-demand dynamics), as oil forecasting is highly 
+   complex and influenced by multiple variables
+-- Developed an interactive Streamlit application for real-time oil price forecasting
+-- Performed feature engineering including date decomposition (year, month) and categorical encoding
+-- Implemented data preprocessing pipeline with scaling and one-hot encoding for model consistency
+-- Visualized relationships between geopolitical factors and oil prices using Seaborn and Matplotlib
+-- Evaluated model performance using MAE, MSE, and R-squared metrics
+-- Saved and deployed model using Pickle for seamless integration with the web app
+Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, Pickle
+
 
 
 
