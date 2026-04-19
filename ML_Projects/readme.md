@@ -47,7 +47,17 @@ Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib
 -- Saved and deployed model using Pickle for seamless integration with the web app
 Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, Pickle
 
+## 6. House Rent Price in India Web App
+-- Designed a machine learning model to predict house rents across major Indian cities, considering key factors like area, number of rooms, furnishing status, and location, as real estate pricing is influenced by multiple dynamic variables
+-- Developed an interactive Streamlit application for real-time rent prediction based on user inputs
+-- Performed feature engineering including handling categorical variables (city, furnishing) using one-hot encoding and creating meaningful input structures
+-- Implemented a complete data preprocessing pipeline with encoding and feature alignment to ensure consistency between training and prediction stages
+-- Applied log transformation on target variable to handle skewness and improve model performance
+-- Conducted exploratory data analysis using Matplotlib and Seaborn to understand relationships between features like area, city, and rent
+-- Evaluated model performance using MAE, MSE, and R-squared metrics, achieving reliable and realistic prediction accuracy
+-- Saved trained model, scaler, and feature columns using Pickle for seamless deployment in the web application
 
+Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, joblib
 
 
 
