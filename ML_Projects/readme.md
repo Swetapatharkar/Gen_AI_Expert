@@ -56,8 +56,15 @@ Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, Pickle
 -- Conducted exploratory data analysis using Matplotlib and Seaborn to understand relationships between features like area, city, and rent
 -- Evaluated model performance using MAE, MSE, and R-squared metrics, achieving reliable and realistic prediction accuracy
 -- Saved trained model, scaler, and feature columns using Pickle for seamless deployment in the web application
-
 Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, joblib
+
+##7. Spam Email Classification Model
+-- Built a machine learning model to classify emails as spam or ham using Logistic Regression / Naive Bayes
+-- Performed data preprocessing including text cleaning, tokenization, stopword removal, and TF-IDF vectorization
+-- Applied feature extraction techniques to convert textual data into numerical format for model training
+-- Evaluated model performance using accuracy, precision, recall, and F1-score metrics with confusion matrix visualization
+-- Implemented train-test split and handled missing/imbalanced data for improved model robustness
+Tech: Pandas, Scikit-learn, NLTK, TF-IDF, Matplotlib, Joblib
 
 
 
