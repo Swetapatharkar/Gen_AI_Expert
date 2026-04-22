@@ -1,0 +1,6 @@
+time_on_site,pages_viewed,past_purchases,device,discount,purchase,amount
+5,3,1,mobile,10,0,0
+15,10,5,desktop,20,1,5000
+8,4,2,mobile,5,0,0
+20,15,8,desktop,30,1,12000
+12,6,3,mobile,15,1,3000
