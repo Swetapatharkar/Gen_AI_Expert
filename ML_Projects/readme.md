@@ -58,13 +58,25 @@ Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, Pickle
 -- Saved trained model, scaler, and feature columns using Pickle for seamless deployment in the web application
 Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, joblib
 
-##7. Spam Email Classification Model
+##7. **Spam Email Classification Model**
 -- Built a machine learning model to classify emails as spam or ham using Logistic Regression / Naive Bayes
 -- Performed data preprocessing including text cleaning, tokenization, stopword removal, and TF-IDF vectorization
 -- Applied feature extraction techniques to convert textual data into numerical format for model training
 -- Evaluated model performance using accuracy, precision, recall, and F1-score metrics with confusion matrix visualization
 -- Implemented train-test split and handled missing/imbalanced data for improved model robustness
 Tech: Pandas, Scikit-learn, NLTK, TF-IDF, Matplotlib, Joblib
+
+##8. **E-commerce Sales Prediction Hybrid Model**
+
+-- Built a hybrid machine learning model combining Classification (purchase likelihood) and Regression (sales amount prediction) for e-commerce analytics
+-- Implemented a two-stage pipeline: first predicting whether a customer will purchase, followed by estimating the expected order value
+-- Utilized Random Forest for both classification and regression to capture complex, non-linear relationships in customer behavior
+-- Performed data preprocessing including missing value handling, One-Hot Encoding, and feature scaling for improved model performance
+-- Applied probability threshold tuning to optimize classification decisions based on business needs
+-- Conducted feature importance analysis to identify key drivers influencing purchase decisions and sales value
+-- Developed an interactive Streamlit web app for real-time predictions and user input handling
+-- Evaluated model performance using Accuracy, Precision-Recall (classification) and R-squared, RMSE (regression) metrics
+Tech: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib
 
 
 
