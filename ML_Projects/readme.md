@@ -148,9 +148,31 @@ Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib
 **Tech Stack:**  
 Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib • Joblib  
 
+## 10. Healthcare Disease Prediction using LASSO (ML Web App)
+Problem: Predict disease progression and identify key medical factors influencing patient health
+**Highlights:**
 
-Author:
+Implemented LASSO Regression for:
+--Disease progression prediction
+--Automatic feature selection (removing irrelevant features)
+--Identified important health indicators using non-zero coefficients
+--Applied preprocessing pipeline:
+--Train-test split
+--Feature scaling using StandardScaler
+--Model evaluation using:
+--R² Score
+--Mean Squared Error (MSE)
+--Interactive Streamlit UI:
+--Upload dataset
+--Adjust alpha (regularization strength) dynamically
+--Extended to classification (disease yes/no) using Logistic Regression with L1 penalty
+
+**Tech Stack:**
+Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib
+
+
+**Author:**
 Shweta Patharkar
 
 
-Tool1 • Tool2 • Tool3  
+
